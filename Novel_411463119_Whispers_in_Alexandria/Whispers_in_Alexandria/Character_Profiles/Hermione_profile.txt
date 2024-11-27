@@ -1,0 +1,24 @@
+# Hermione_Profile.txt
+
+## Biography
+**Name:** Hermione  
+**Notable Alias:** Investigator of the Unsolved  
+**Location:** Alexandria, Egypt  
+**Period of Activity:** Present (2023 - Present)  
+
+## Physical Description
+- **Height:** 5'6" 
+- **Build:** Athletic and lean, indicative of her active lifestyle.
+- **Hair & Eye Color:** Dark brown hair with piercing green eyes that reflect determination and curiosity.
+
+## Motive
+- **Professional Ambition:** Hermione's primary motivation is to solve the case of the "Serial Killer of Egypt," driven by a passion for justice and uncovering truth.
+- **Personal Connection:** While not directly connected to Alex, Hermione feels an indirect connection through her role as a journalist and researcher in Alexandria.
+
+## Modus Operandi
+- **Investigative Skills:** Hermione uses her keen investigative skills, knowledge of the city’s history, and connections within the community. She often relies on interviews with residents, historical documents, and forensic analysis.
+- **Collaboration:** Works closely with Detective Nada Hassan to gather evidence and follow leads. Her approach is methodical yet innovative.
+
+## Notable Cases
+1. **First Case:** Hermione discovers an old newspaper clipping about Alex’s first murder from 2010, reigniting her interest in the case.
+2. **Mystery of the Notes:** She uncovers a series of cryptic messages left by Alex at crime scenes, which hint
