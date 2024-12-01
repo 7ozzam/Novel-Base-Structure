@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4f35d8e292ad4472",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4ced3fcf546315",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prompt Testing 1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d50e00f7c6725914",
+    "type": "split",
+    "children": [
+      {
+        "id": "5644227fb4ceb939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10516168dfa37326",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44722a42c2a7df3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41483fbf3d1a1b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d06ecb58942686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a16ae52502bedf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prompt Testing 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fd4ced3fcf546315",
+  "lastOpenFiles": [
+    "Prompt Testing 1.md",
+    "9_Notes (Ignore)/Prompt.md",
+    "2_Characters_Prime/1_Emily_Carter/Emily_Carter_Character_Profile.md",
+    "2_Characters_Prime/4_Jack_Reeves/Jack_Reeves_Character_Profile.md",
+    "2_Characters_Prime/2_Marcus_Thompson/Marcus_Thompson_Character_Profile.md",
+    "1_Quantum_Leap_Introduction/1_Quantum_Leap_2050_Introduction/1_Quantum_Leap_2050_Introduction_Overview.md",
+    "2_Characters_Prime/3_Sophia Chen/Sophia_Chen_Character_Profile.md",
+    "Quantum_Leap_2060_Overview.md",
+    "9_Notes (Ignore)/Draft/TimeLine.md",
+    "9_Notes (Ignore)/Draft/Story Flow.md"
+  ]
+}
